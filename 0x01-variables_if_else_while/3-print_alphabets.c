@@ -3,6 +3,7 @@
 #include <time.h>
 /**
  * main - Entery point
+ * Description: C program to print alphabets
  * return: Always 0 (success)
  */
 int main(void)
