@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Entery point
+ * main - Entry point
  *
  * Description: C program to print alphabets
  *
